@@ -8,6 +8,8 @@
 
 因此，本人决定，重写这个系列的博文，力求以简明、清晰、准确的图文以及代码描述，配合 github 的项目开源代码，给各位 VUE 新手提供一个高质量的入门文案。
 
+from: https://github.com/fengcms/vue-demo-cnodejs
+
 以下为我写的博文：
 
 1. [Vue2+VueRouter2+Webpack+Axios 构建项目实战2017重制版（一）基础知识概述](http://blog.csdn.net/fungleo/article/details/77575077)
